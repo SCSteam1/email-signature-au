@@ -1,0 +1,62 @@
+<html><head><title></title>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;800&amp;display=swap" rel="stylesheet">
+<meta name="viewport" content="text/html; charset=utf-8; width=device-width, initial-scale=1.0" http-equiv="Content-Type">
+<meta name="apple-mobile-web-app-capable" content="yes">
+ 
+</head>
+<body style="font-size:10pt; font-family:'Poppins', sans-serif">
+
+<table style="width:320px; font-size:10pt; font-family:'Poppins', sans-serif; color:#777777" width="320" cellpadding="0" cellspacing="0" border="0">
+ <tbody>
+  
+  <tr>
+   <td style="font-size:18pt; font-family:'Poppins', sans-serif; color:#e90b78; padding:0; line-height:26px;font-weight: 800">Name<span style="font-size:18pt; font-family:'Poppins', sans-serif; color:#e90b78;font-weight: 400"> | <span style="font-size:10pt; font-family:'Poppins', sans-serif; color:#e90b78;font-weight: 400">she/her</span></span></td>		
+  </tr>
+  
+  <tr>
+   <td style="padding-top:0; padding-left:0; padding-right:0; padding-bottom:0px; line-height:22px;  vertical-align:top; font-size:10pt; font-family:'Poppins', sans-serif; color:#777777;" valign="top">
+    <span style="font-size:10pt; font-family:'Poppins', sans-serif; color:#777777;text-transform:uppercase;font-weight: 400">Title</span>
+   </td>
+  </tr>	
+  <tr>
+   <td style="padding-top:0; padding-left:0; padding-right:0; line-height:12px;  vertical-align:top; font-size:10pt; font-family:'Poppins', sans-serif; color:#777777;" valign="top">
+    &nbsp;
+   </td>
+  </tr>	
+  <tr>
+   <td style="padding-top:0; padding-left:0; padding-right:0; line-height:18px;  vertical-align:top; font-size:10pt; font-family:'Poppins', sans-serif; color:#777777;" valign="top">
+    <span style="font-size:10pt; font-family:'Poppins', sans-serif; color:#e90b78;font-weight:700;">M</span><span style="font-size:10pt; font-family:'Poppins', sans-serif; color:#000000;">&nbsp;<span><a href="tel:0423826543" style="font-size:10pt; font-family:'Poppins', sans-serif;text-decoration:none; color:#000000;">&nbsp;0423 826 543</a></span>
+   </span></td>
+  </tr>	
+  	
+  <tr>
+   <td style="padding-top:0; padding-left:0; padding-right:0; line-height:18px;  vertical-align:top; font-size:10pt; font-family:'Poppins', sans-serif; color:#777777;" valign="top">
+    <span style="font-size:10pt; font-family:'Poppins', sans-serif; color:#e90b78;font-weight:700;">W</span><span style="font-size:10pt; font-family:'Poppins', sans-serif; color:#000000;">&nbsp;<span><a href="https://www.socialcaresolutions.com.au/" style="font-size:10pt; font-family:'Poppins', sans-serif;text-decoration:none; color:#000000;">&nbsp;socialcaresolutions.com.au</a></span>
+   </span></td>
+  </tr>	
+   <tr>
+   <td style="padding-top:0; padding-left:0; padding-right:0; line-height:12px;  vertical-align:top; font-size:10pt; font-family:'Poppins', sans-serif; color:#777777;" valign="top">
+    &nbsp;
+   </td>
+  </tr>	 
+  
+  <tr>
+   <td style="padding:0;vertical-align:top;padding-bottom:5px;padding-top:10px;" valign="top">
+    <span><a href="https://www.socialcaresolutions.com.au/" target="_blank" style="text-decoration: none; color: #000000;"><img border="0" width="240" alt="Logo" style="border:0; height:auto; width:240px" src="https://res.cloudinary.com/dfcl8lo3f/image/upload/v1736217275/SCS-Logo1_jn5qf4.gif"> </a></span>	 
+		
+     </td>	
+  </tr>
+  <tr>
+   <td style="padding:0;vertical-align:top;padding-bottom:5px;padding-top:10px;" valign="top">
+    <span style="color: #e90b78; font-weight: 700; vertical-align: middle;">CONNECT</span>
+						
+	<a href="https://www.linkedin.com/company/socialcaresolutions" target="_blank"><img src="https://res.cloudinary.com/dfcl8lo3f/image/upload/v1736217303/linkedin_wnz3ar.png" border="0" alt="Linkedin-icon" style="display: inline-block; width: 18px; border:0px; vertical-align: sub; padding-left: 5px;"></a>
+	</td>	
+  </tr>
+  
+</tbody></table>
+    
+
+
+</body></html>
